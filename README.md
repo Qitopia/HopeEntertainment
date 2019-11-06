@@ -1,6 +1,6 @@
 # Hope Enterainment data
 
-This project holds two files which were scraped from [Hope Entartainment] YouTube channel on November 1st, 2019. You can also find the python script used to scrape the data.
+This project holds two files which were scraped from [Hope Entartainment] YouTube channel on November 1st, 2019. You can also find the python script used to scrape the data. Since, the data was not done manually, there are some data quality issues on artists.csv
 
 You can find the article written based on this data on https://medium.com/@hagere/a-look-into-ethiopias-youtube-music-industry-e2aaaf5cc38f
 
